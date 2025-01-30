@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/src/Server/Server.js",
+    "start": "node dist/src/Server/server.js",
     "dev": "nodemon src/Server/server.ts"
   },
   "keywords": [],
